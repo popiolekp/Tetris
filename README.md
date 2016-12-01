@@ -29,7 +29,9 @@ The game is controlled using the keybord:
 ### Wykorzystane zasoby / Used resources
   
 W grze użyto następujących ścieżek dźwiękowych:
-  * success-low.wav - autor: grunz - licencja: Creative Commons - źródło: http://freesound.org/people/grunz/sounds/109663/
+  * arcade-music-loop.wav - autor: joshuaempyre - licencja: Creative Commons (Attribution License) - źródło: http://freesound.org/people/joshuaempyre/sounds/251461/
+  * coins.wav - autor: ProjectsU012 - licencja: Creative Commons (Attribution License) - źródło: http://freesound.org/people/ProjectsU012/sounds/341695/
 
 The game uses the following soundtracks:
-  * success-low.wav - author: grunz - licence: Creative Commons - source: http://freesound.org/people/grunz/sounds/109663/
+  * arcade-music-loop.wav - author: joshuaempyre - license: Creative Commons (Attribution License) - source: http://freesound.org/people/joshuaempyre/sounds/251461/
+  * coins.wav - author: ProjectsU012 - license: Creative Commons (Attribution License) - source: http://freesound.org/people/ProjectsU012/sounds/341695/
